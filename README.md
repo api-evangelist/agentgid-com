@@ -1,4 +1,4 @@
-# agentgid-com
+# AgentGid
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,116 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agentgid-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentgid.com/
+AgentGid builds AI agent starter kits from tested recipes, providing live data on agents, libraries, APIs and assets such as usage, prices, licenses, limits and status. It offers a live scoreboard for AI agents, tracking package downloads, editor installs, GitHub stars, release activity, pricing and reliability, refreshed daily. The site also supplies documentation, quick-start guides, pricing pages, a contact page for support, and a blog with news and analysis.
+
+**Areas:** AI · Agents · Data · Marketplace · Analytics
+
+## AgentGid on APIs.io
+
+Everything profiled for AgentGid is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentgid-com/](https://apis.io/providers/agentgid-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Perplexity Sonar API](https://apis.io/apis/agentgid-com/perplexity-sonar-api/) — Perplexity API (Sonar / Search API): Raw web search results API plus an Agent API that answers with live-web citations.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agentgid Com Context](https://apis.io/jsonld/agentgid-com/agentgid-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AgentGid API Rules](https://apis.io/rules/agentgid-com/agentgid-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentgid Com Authentication](https://apis.io/security/agentgid-com/agentgid-com-authentication/)
+- [Agentgid Com Domain Security](https://apis.io/security/agentgid-com/agentgid-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Agentgid Com Scopes](https://apis.io/scopes/agentgid-com/agentgid-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentgid.com/)
+- [Documentation](https://agentgid.com/docs/)
+- [Getting started](https://agentgid.com/docs/quick-start/)
+- [API reference](https://agentgid.com/apis/)
+- [Pricing](https://agentgid.com/pricing/)
+- [Sign up](https://agentgid.com/account/)
+- [Support](https://agentgid.com/contact/)
+- [Changelog](https://agentgid.com/releases/)
+- [Blog](https://agentgid.com/news/)
+- [Terms of service](https://github.com/carbon-intensity/terms/)
+- [Privacy policy](https://agentgid.com/privacy/)
+- [Status](https://agentgid.com/status/)
+
+## API Evangelist rating
+
+**Kin Score 43.4** — developing · rubric 0.26.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 14.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 44.7 |
+
+**Agent readiness 7.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | derived (partial credit) |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentgid-com/](https://apis.io/providers/agentgid-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AgentGid: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentgid-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
