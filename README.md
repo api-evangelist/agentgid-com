@@ -66,7 +66,7 @@
 
 AgentGid builds AI agent starter kits from tested recipes, providing live data on agents, libraries, APIs and assets such as usage, prices, licenses, limits and status. It offers a live scoreboard for AI agents, tracking package downloads, editor installs, GitHub stars, release activity, pricing and reliability, refreshed daily. The site also supplies documentation, quick-start guides, pricing pages, a contact page for support, and a blog with news and analysis.
 
-**Areas:** AI · Agents · Data · Marketplace · Analytics
+**Areas:** Artificial Intelligence · Agents · Data · Marketplace · Analytics
 
 ## AgentGid on APIs.io
 
@@ -80,11 +80,23 @@ Everything profiled for AgentGid is published on APIs.io rather than in this rep
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentgid-com-mcp.yml](https://apis.io/servers/agentgid-com/agentgid-com-mcp-yml/)
+
 #### JSON-LD (1)
 
 Linked-data contexts for the provider's vocabulary.
 
 - [Agentgid Com Context](https://apis.io/jsonld/agentgid-com/agentgid-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Perplexity Certification Overlay](https://apis.io/overlays/agentgid-com/perplexity-certification-overlay/)
 
 #### Governance rules (1)
 
@@ -96,14 +108,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentgid Com Authentication](https://apis.io/security/agentgid-com/agentgid-com-authentication/)
-- [Agentgid Com Domain Security](https://apis.io/security/agentgid-com/agentgid-com-domain-security/)
+- [AgentGid Authentication](https://apis.io/security/agentgid-com/agentgid-com-authentication/)
+- [AgentGid Domain Security](https://apis.io/security/agentgid-com/agentgid-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agentgid Com Scopes](https://apis.io/scopes/agentgid-com/agentgid-com-scopes/)
+- [AgentGid Scopes](https://apis.io/scopes/agentgid-com/agentgid-com-scopes/)
 
 ## Where to find this API
 
@@ -124,18 +136,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 43.4** — developing · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 37.2** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
+| Discoverability | 63.3 |
 | Contract quality | 14.7 |
-| Contract governance | 79.1 |
-| Operational transparency | 31.6 |
+| Contract governance | 22.0 |
+| Operational transparency | 28.6 |
 | Developer ergonomics | 49.3 |
-| Access clarity | 44.7 |
+| Access clarity | 40.4 |
 
-**Agent readiness 7.9** — agent-aware
+**Agent readiness 10.9** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -150,7 +162,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | unknown |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -161,8 +173,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 20.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentgid-com/](https://apis.io/providers/agentgid-com/).
 
